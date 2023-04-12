@@ -13,3 +13,5 @@ Suggests:
 Config/testthat/edition: 3
 Imports: 
     stringr
+URL: https://github.com/DWR-Juan/PracticeRPackage
+BugReports: https://github.com/DWR-Juan/PracticeRPackage/issues
