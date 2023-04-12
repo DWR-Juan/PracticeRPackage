@@ -25,7 +25,7 @@ You can install the development version of PracticeRPackage from
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("jennybc/PracticeRPackage")
+devtools::install_github("DWR-Juan/PracticeRPackage")
 ```
 
 ## Usage
